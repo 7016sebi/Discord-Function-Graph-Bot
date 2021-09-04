@@ -177,4 +177,4 @@ def convert(s):
     return new
 
 
-client.run('')
+client.run('') #add discord bot token here
